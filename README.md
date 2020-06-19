@@ -1,5 +1,5 @@
 # sql queries
-This Microverse project involves writing sql queries as answers to questions on sqlzoo. 
+This Microverse project involves writing sql queries as answers to questions on https://sqlzoo.net/. 
 
 ## Built With
 
